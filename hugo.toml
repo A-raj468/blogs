@@ -1,0 +1,13 @@
+baseURL = 'https://A-raj468.github.io/'
+languageCode = 'en-us'
+title = 'Blogs'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Aditya Raj"
+  ShowReadingTime = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
