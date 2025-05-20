@@ -11,3 +11,7 @@ theme = 'PaperMod'
   ShowReadingTime = true
   defaultTheme = "auto"
   disableThemeToggle = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
